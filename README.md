@@ -1,7 +1,7 @@
 # Slime-Quest
 A java-based game I started in college.
   
-  I was kinda lazy, so I just uploaded my whole project folder to github.  All the code is in the src folder.
+  Rather than sorting through which files needed to be uploaded, I (somewhat wastefully) just uploaded my entire project folder.  The image assets are included this way at least.  The actual code is in the src folder.
   
 What you see here is the result of about 3 weeks of work in-between classes.  
 It is just a private project, so there isn't really anything in the way of documentation.  
