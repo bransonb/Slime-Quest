@@ -1,6 +1,8 @@
 # Slime-Quest
 A java-based game I started in college.
   
+  I was kinda lazy, so I just uploaded my whole project folder to github.  All the code is in the src folder.
+  
 What you see here is the result of about 3 weeks of work in-between classes.  
 It is just a private project, so there isn't really anything in the way of documentation.  
 If you're analyzing the code, the classes to keep in mind are:  
